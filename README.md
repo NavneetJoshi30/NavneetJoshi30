@@ -30,7 +30,7 @@
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
-  
+  <br/>
   <!-- Developer Tools & Environments -->
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
